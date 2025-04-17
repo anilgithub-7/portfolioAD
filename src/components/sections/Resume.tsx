@@ -6,7 +6,7 @@ const Resume = () => {
     experience: [
       {
         title: "AI Engineer",
-        company: "Tech Solutions Inc.",
+        company: "ING Group",
         period: "Jun 2023 - Present",
         responsibilities: [
           "Developing and deploying NLP models for sentiment analysis and entity recognition",
@@ -17,7 +17,7 @@ const Resume = () => {
       },
       {
         title: "Backend Developer Intern",
-        company: "DataStream Labs",
+        company: "Routine of Nepal Banda",
         period: "Jan 2023 - May 2023",
         responsibilities: [
           "Implemented RESTful APIs using Django REST Framework",
@@ -29,8 +29,8 @@ const Resume = () => {
     ],
     education: [
       {
-        degree: "B.S. Computer Science",
-        institution: "Tech University",
+        degree: "BE Electronics Engineer",
+        institution: "Tribhuvan University",
         period: "2019 - 2023",
         details: "Focus on Artificial Intelligence and Machine Learning"
       }

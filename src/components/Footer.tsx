@@ -14,22 +14,22 @@ const Footer = () => {
       <div className="container-custom">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
-            <div className="text-2xl font-bold">AI.Dev</div>
+            <div className="text-2xl font-bold">AI Engineer</div>
             <p className="text-foreground/60 text-sm mt-1">
-              © {new Date().getFullYear()} John Doe. All rights reserved.
+              © {new Date().getFullYear()} Anil Thapa. All rights reserved.
             </p>
           </div>
 
           <div className="flex items-center space-x-4">
             <a
-              href="mailto:contact@johndoe.dev"
+              href="mailto:anilthapa4200@gmail.com"
               className="p-2 rounded-full bg-muted hover:bg-primary hover:text-primary-foreground transition-colors"
               aria-label="Email"
             >
               <Mail className="h-5 w-5" />
             </a>
             <a
-              href="https://github.com/johndoe"
+              href="https://github.com/in/anilgithub-7"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-full bg-muted hover:bg-primary hover:text-primary-foreground transition-colors"
@@ -38,7 +38,7 @@ const Footer = () => {
               <Github className="h-5 w-5" />
             </a>
             <a
-              href="https://linkedin.com/in/johndoe"
+              href="https://linkedin.com/in/anil.thapa7"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-full bg-muted hover:bg-primary hover:text-primary-foreground transition-colors"

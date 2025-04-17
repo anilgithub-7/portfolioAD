@@ -40,7 +40,7 @@ const Navbar = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-lg border-b border-border">
       <div className="container-custom mx-auto flex justify-between items-center h-16 px-4">
         <a href="#home" className="text-2xl font-bold text-foreground">
-          AI.Dev
+          AI Engineer
         </a>
 
         {/* Desktop Navigation */}

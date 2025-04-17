@@ -63,17 +63,17 @@ const Contact = () => {
 
             <div className="space-y-4">
               <a 
-                href="mailto:contact@johndoe.dev" 
+                href="mailto:anilthapa4200@gmail.com" 
                 className="flex items-center gap-3 text-foreground/80 hover:text-primary transition-colors"
               >
                 <div className="bg-background p-3 rounded-full">
                   <Mail className="h-5 w-5 text-primary" />
                 </div>
-                <span>contact@johndoe.dev</span>
+                <span>anilthapa4200@gmail.com</span>
               </a>
               
               <a 
-                href="https://github.com/johndoe" 
+                href="https://github.com/in/anilgithub-7" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="flex items-center gap-3 text-foreground/80 hover:text-primary transition-colors"
@@ -81,11 +81,11 @@ const Contact = () => {
                 <div className="bg-background p-3 rounded-full">
                   <Github className="h-5 w-5 text-primary" />
                 </div>
-                <span>github.com/johndoe</span>
+                <span>github.com/in/anilgithub-7</span>
               </a>
               
               <a 
-                href="https://linkedin.com/in/johndoe" 
+                href="https://linkedin.com/in/anil.thapa7" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="flex items-center gap-3 text-foreground/80 hover:text-primary transition-colors"
@@ -93,7 +93,7 @@ const Contact = () => {
                 <div className="bg-background p-3 rounded-full">
                   <Linkedin className="h-5 w-5 text-primary" />
                 </div>
-                <span>linkedin.com/in/johndoe</span>
+                <span>linkedin.com/in/anil.thapa7</span>
               </a>
             </div>
           </div>

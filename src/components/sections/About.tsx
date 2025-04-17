@@ -7,7 +7,7 @@ const About = () => {
       "Python", "Django", "FastAPI", "WebSockets",
       "Machine Learning", "NLP", "REST APIs",
       "Git", "Docker", "PostgreSQL", "Redis",
-      "Hugging Face", "TensorFlow"
+      "Hugging Face", "TensorFlow", "Reinforcement Learning"
     ],
     soft: [
       "Problem Solving", "Teamwork", "Clear Communication",
